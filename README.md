@@ -2,7 +2,7 @@
 
 ## Clone project
 ```shell
-$ git clone
+$ git clone https://github.com/hoangsetup/simple-image-classifier-serving.git
 ```
 
 ## Developer Install
